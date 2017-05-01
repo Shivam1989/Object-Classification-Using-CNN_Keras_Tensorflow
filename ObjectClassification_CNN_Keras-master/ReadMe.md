@@ -12,9 +12,9 @@
 
 ## Running My Code
 
-- Clone the Repository to System.[Github link](https://github.com/Lalit7Jain/ObjectClassification_CNN_Keras)
+- Clone the Repository to System.[Github link](https://github.com/Shivam1989/Object-Classification-Using-CNN_Keras_Tensorflow)
 - Create Google API key[Google Api Key](https://console.developers.google.com/apis/dashboard?project=final-project-152101)
-- Create Gpu Instance Using Amazon Aws Service and Install Django and related libraries to run Python [Link of Document for Reference](https://github.com/Lalit7Jain/ObjectClassification_CNN_Keras/blob/master/Document/Steps%20for%20running%20code.docx)
+- Create Gpu Instance Using Amazon Aws Service and Install Django and related libraries to run Python [Link of Document for Reference](https://github.com/Shivam1989/Object-Classification-Using-CNN_Keras_Tensorflow/tree/master/ObjectClassification_CNN_Keras-master/Document/Steps%20for%20running%20code.docx)
 - SCP the Django files with name mysite  in an AWS GPU Instance under directory '/home/Ubuntu'
 > Run the Server using below command
 ```
@@ -28,7 +28,7 @@ We have dataset of Natural Calamity Namely Hurricane, Volcanic Eruption, Earthqu
 Additionally, many pictures did not clearly correspond to the class presented. There was lot of corrupted images while downloading from API where were filtered out at later stages before preprocessing starts.
 ```
 
-- The image data-set is available at [Object Classification Dataset](https://github.com/Lalit7Jain/ObjectClassification_CNN_Keras/tree/master/Django%20code/Django_CNN_Website/mysite/Data)
+- The image data-set is available at [Object Classification Dataset](https://github.com/Shivam1989/Object-Classification-Using-CNN_Keras_Tensorflow/tree/master/ObjectClassification_CNN_Keras-master/Django%20code/Django_CNN_Website/mysite/Data)
 
 ## Preprocessing
 
